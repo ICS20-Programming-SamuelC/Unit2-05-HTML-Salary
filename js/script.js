@@ -19,5 +19,5 @@ function calculate () {
 
   // output
   document.getElementById('area').innerHTML = 'Pay is: ' + pay + ' $'
-  document.getElementById('perimeter').innerHTML = 'Amount the government will take is: ' + amount the government will take + ' $'
+  document.getElementById('perimeter').innerHTML = 'Amount the gouvernment will take is: ' + amount the government will take + ' $'
 }
